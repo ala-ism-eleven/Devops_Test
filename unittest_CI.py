@@ -14,6 +14,6 @@ class TestCalculator(unittest.TestCase):
     def test_subtraction(self):
         self.assertEqual(2, test_Circle_CI.subtract(4, 2))
 
-        
+
 if __name__ == "__main__":
     unittest.main()
